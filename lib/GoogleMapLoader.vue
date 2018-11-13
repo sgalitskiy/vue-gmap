@@ -1,6 +1,6 @@
 <template>
   <div>
-    <template v-if="!!this.google">
+    <template v-if="Boolean(this.google)">
       <slot
         :google="google"
       />
