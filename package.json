@@ -1,0 +1,17 @@
+{
+  "name": "vue-gmap",
+  "version": "1.0.0",
+  "description": "vue.js google map dynamic loader",
+  "main": "index.vue"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue.js",	
+    "google-map",
+    "google-map-loader"
+  ],
+  "author": "Sergiy Galytskyy <sergiyko911@gmail.com>",
+  "license": "MIT"
+}
